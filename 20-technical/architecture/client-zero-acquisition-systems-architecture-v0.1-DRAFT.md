@@ -1,7 +1,7 @@
 # Client-Zero Demonstration — CRE Acquisition Systems Architecture
 
 **Repo target:** `vandtage-consultancy-ops/20-technical/architecture/`
-**Status:** FORMATION CANDIDATE — technical handoff draft, not adopted
+**Status:** PROTECTED CANDIDATE FORMED — CONSOLIDATED REVIEW UNOPENED
 **Lead author:** Claude (technical/build lead per authority-and-separation-of-duties.md)
 **Date:** 2026-09-03
 **Governing F0:** Secure first paid Founding Systems Partner engagement
@@ -90,10 +90,10 @@ This is the finding the demonstration exists to produce. Provisional read, to be
 Per the filed assurance advantage, applied at the level this demonstration warrants:
 
 - **Extraction never fabricates.** Absent fields are marked absent. This is the single most important reliability property — a system that invents a cap rate to look complete is worse than one that says "not stated."
-- **Completeness gates fail closed.** Stage 5 does not pass an under-specified package as Read-ready.
+- **Stage 5 flags and stops.** The Desk Pilot candidate flag is a notification, never an intake trigger: no package completeness is checked, nothing is passed as Read-ready, and no Read begins from an automated step.
 - **Every automated loop has a bounded stop.** No infinite follow-up.
 - **No-overwrite on raw inbound.** The original opportunity record is immutable; enrichment writes forward.
-- **Human-in-the-loop at the two judgment points** — edge-of-band qualification (Stage 3) and commission-a-Read (Stage 5).
+- **Human-in-the-loop at the two judgment points** — edge-of-band qualification (Stage 3) and the decision whether to open a Desk Pilot conversation (Stage 5).
 
 Demonstration-tier assurance is lighter than a live client system carrying real deal flow. The posture scales up with consequence; this is client-zero, so the bar is "honest and bounded," not "production-hardened."
 
@@ -104,8 +104,8 @@ Demonstration-tier assurance is lighter than a live client system carrying real 
 Client zero is Vandtage/Deal Read, so no external client data exists in the demonstration. But the architecture is written to carry the firewall from the first real client:
 
 - Opportunity records, extracted fields, and Read-routing flags are **client-owned data**. In a real engagement they live in the client's workspace, not in `vandtage-consultancy-ops`.
-- The **generalized capability** — the extraction schema, the completeness-gate logic, the buy-box rule pattern — is retained Vandtage IP (kitchen, not meal).
-- No identifiable client deal information routes toward NOVUS acquisition activity. The completeness gate is a technical check, not an intelligence tap.
+- The **generalized capability** — the extraction schema, the Desk Pilot candidate-flag rule, the buy-box rule pattern — is retained Vandtage IP (kitchen, not meal).
+- No identifiable client deal information routes toward NOVUS acquisition activity. The candidate flag is a pipeline notification, not an intelligence tap.
 
 ---
 
