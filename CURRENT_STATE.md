@@ -1,6 +1,6 @@
 # Current State
 
-**Last updated:** 2026-09-04  
+**Last updated:** 2026-09-08  
 **State:** ACTIVE
 
 ## Active F0
@@ -49,10 +49,10 @@ Build in parallel with outreach. Outreach does not wait for demo completion.
 
 ## Current operating doctrine
 
-- Consultancy is the cash front door.
+- ~~Consultancy is the cash front door.~~ **Superseded in place 2026-09-08 — holdco `04` v1.59 FR-7, cross-referenced here as FD-0012:** Vandtage is externally a **Build Studio for Operators**; consultancy is an active commercial workstream and method of engagement within one Vandtage systems business, not the company category. Company-level commercial entry is **operator friction → routing**: unclear friction → discovery / applicable friction diagnostic; recurring measurable operational or revenue bottleneck → Founding Systems Partner / managed systems engagement; clearly bounded implementation → Build Studio / Custom Sprint; CRE deal-analysis capacity → Deal Read; CRE installed operating capability → Vandtage Hub; CRE deal-package readiness → Deal Send Check; outside Vandtage's lawful or strategic boundary → decline or explicit human-decided referral. Founding Systems Partner, Custom Sprint, Deal Read, Hub and Deal Send Check are routed responses, not competing identities.
 - Build Studio is the custom implementation layer.
 - GoHighLevel may be infrastructure; it is not the product.
-- Retainers are **operate + measure + improve**, not maintenance insurance.
+- Retainers are **operate + measure + improve**, not maintenance insurance. The historical public $750 / $2,000 / $3,500 retainer ladder is no longer an authorized representation of Vandtage's recurring-engagement model (FR-9, FD-0012); no replacement standing price exists, and the active founding-offer prices above remain a market test.
 - Contractors precede speculative payroll.
 - Client information and NOVUS acquisition activity remain firewalled.
 - Founder conversations and human market evidence outrank internal theorizing.

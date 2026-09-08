@@ -144,3 +144,22 @@ No Tier-1 intake, package completeness gate, Read commissioning, or automated Re
 **A decision may remain local** when its consequence is confined to the consultancy operating surface. **A decision must be surfaced for holdco reconciliation** when it materially affects: cross-holdco governance · NOVUS or another entity · canonical authority · capital or ownership policy · shared infrastructure · an existing holdco decision · a dependency governed outside the consultancy.
 
 **Where the two ledgers conflict, this ledger may not silently supersede `04`.** Cross-references are used rather than duplication or independent reinterpretation — this entry is written to that rule and deliberately carries no restatement of FR-3 or FR-4 beyond their existence and location.
+
+---
+
+## FD-0012 — Vandtage Commercial Clarification: External Identity and Entry Architecture, Diagnostic Role, Retainer Presentation (cross-reference, not a local decision)
+
+**Date:** 2026-09-08  
+**Status:** ACTIVE  
+**Ruling reference:** FR-7 · FR-8 · FR-9 (the founder's 2026-09-08 dispatch labels them FR-1 · FR-2 · FR-3; the holdco handles avoid collision with the FR-1…FR-5 cited by FD-0009…FD-0011)  
+**Decision:** Recorded here **by cross-reference only**, because these rulings govern Vandtage's company-level commercial identity and entry — a holdco-canonical matter under FD-0011 — and this ledger may not restate or independently reinterpret them.
+
+**Governing record:** `Alldre015/vandtage` → `docs/ai-context/04-decision-assumption-ledger.md` v1.59, section **"2026-09-08 — Vandtage commercial clarification: external identity and entry architecture, Deal Flow Friction Diagnostic role, and retainer presentation (three founder rulings)."** The text there governs; the summary below exists only so a reader of this repository cannot recover the superseded readings as current.
+
+**What the rulings establish for this repository:**
+
+- **FR-7.** Vandtage's external category remains **Build Studio for Operators**. "Consultancy" — including FD-0001's "AI consultancy" and FD-0002's "cash-generating front door" — describes an **active commercial workstream and method of engagement** within one Vandtage systems business, not a replacement external category. Company-level commercial entry is **operator friction → routing** (discovery / friction diagnostic · Founding Systems Partner / managed systems engagement · Build Studio / Custom Sprint · Deal Read · Vandtage Hub · Deal Send Check · decline or explicit referral). The earlier "primary commercial front door" reading of Deal Read Desk (`04` 2026-08-22) is narrowed to a specialized CRE route. **Founding Systems Partner is the current test offer for recurring systems work, not a company category.** No FSP test pricing is published and no gated offer is cleared.
+- **FR-8.** The Deal Flow Friction Diagnostic is a **HUMAN TEST / discovery instrument**, not a standalone commercial product. The approximately 5–8-session real-operator series remains active with the first operator as the initial run. No price, self-service product, automated funnel, public-product promise or permanent SKU is authorized; human evidence precedes expansion. Its live state is represented in the ALL ABODE OS vault (`OT-0001` / `WU-0001` / `CP-0001`), not in this repository.
+- **FR-9.** The historical public retainer ladder (approximately $750 / $2,000 / $3,500 per month) is **no longer an authorized representation** of Vandtage's recurring-engagement model. The recurring doctrine is **operate + measure + improve** — already the doctrine of `CURRENT_STATE.md` and `10-commercial/founding-systems-partner-offer.md`. **No replacement standing price is created; FD-0004 prices remain test prices** and must not silently become permanent public pricing. Removal of the ladder from the website is downstream work at the next authorized website update.
+
+**Effect on prior entries:** FD-0001 through FD-0011 are not rewritten. FD-0002's "cash-generating front door" wording remains historically accurate as internal layering doctrine and is read, from this entry forward, as a workstream description subordinate to FR-7's operator-friction entry — not as Vandtage's external category. The consultancy's Active F0 in `CURRENT_STATE.md` is unchanged. The `CURRENT_STATE.md` "Current operating doctrine" line *"Consultancy is the cash front door"* is superseded in place to the same reading, dated 2026-09-08.
